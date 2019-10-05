@@ -22,12 +22,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a updated walkthrough of implemented user stories:
 
-https://imgur.com/RN0tIEF
-[img]https://i.imgur.com/RN0tIEF.mp4[/img]
-
-[Imgur](https://i.imgur.com/RN0tIEF.mp4)
+[Imgur](https://i.imgur.com/uyhsmqb.mp4)
+[img]https://i.imgur.com/uyhsmqb.mp4[/img]
+https://imgur.com/uyhsmqb
 ## License
 
     Copyright [yyyy] [name of copyright owner]
