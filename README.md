@@ -24,10 +24,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='simple_todo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+[Imgur](https://i.imgur.com/RN0tIEF.mp4)
 ## License
 
     Copyright [yyyy] [name of copyright owner]
